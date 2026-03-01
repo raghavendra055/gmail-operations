@@ -1,4 +1,7 @@
 # gmail-operations
+
+
+# Setup for the gmail-extractions
 🔧 Environment Setup
 
 Before running this project, create a .env file in the root directory and add the following variables:
